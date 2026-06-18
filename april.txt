@@ -1,0 +1,4 @@
+hallo
+git config --global --list
+git config --global user.name Aprilia2110
+git config --global user.email 682024049@student.uksw.edu
